@@ -2,9 +2,9 @@
 
 # Consult the keyboard(5) manual page.
 
-XKBMODEL="pc105"
+XKBMODEL="US101"
 XKBLAYOUT="us"
 XKBVARIANT=""
-XKBOPTIONS=""
+XKBOPTIONS="terminate:ctrl_alt_bksp,ctrl:nocaps"
 
 BACKSPACE="guess"
